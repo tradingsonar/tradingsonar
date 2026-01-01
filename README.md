@@ -2,6 +2,9 @@
 **A modern alternative to TradingView for charting and market analysis**  
 Built with traders, for traders — unlimited indicators, multi-layout system, and community-driven development.
 
+
+![App Preview](./tradingsonar.png)
+
 ---
 
 ## What is TradingSonar?
