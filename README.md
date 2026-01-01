@@ -52,7 +52,7 @@ Sign-up takes just a few seconds.
 TradingSonar grows with community input.  
 If you have feature ideas or want to help guide development, we would love to hear from you.
 
-- Contact: support@tradingsonar.com *(replace with your own email if needed)*
+- Contact: mail@tradingsonar.com *(replace with your own email if needed)*
 - Feature requests / bug reports can be posted via GitHub Issues.
 
 ---
